@@ -10,8 +10,6 @@
     <url>http://maven.apache.org</url>
     <packaging>war</packaging>
     <properties>
-        <maven.compiler.source>17</maven.compiler.source>
-        <maven.compiler.target>17</maven.compiler.target>
         <java-version>11</java-version>
         <spring.version>5.2.3.RELEASE</spring.version>
         <hibernate.version>5.4.1.Final</hibernate.version>
